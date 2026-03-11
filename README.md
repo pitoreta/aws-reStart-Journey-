@@ -1,5 +1,5 @@
 Hi there, I'm Mekkiye
-AWS re/Start Program Participant | Cloud Operations Enthusiast
+AWS re/Start Program Participant | Cloud Operations Enthusiast!
 Welcome to my GitHub! I am currently immersed in the rigorous 12-week AWS re/Start program, a workforce development initiative that prepares individuals for entry-level cloud roles. I am building a strong foundation in AWS Cloud concepts, core services, and the operational mindset required to support modern cloud infrastructures.
 ________________________________________
 📘 What I Do Daily (My Cloud Operations Routine)
