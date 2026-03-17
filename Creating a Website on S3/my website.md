@@ -25,7 +25,9 @@ After figuring out the permission issue, I fixed it by adding the right bucket p
 I successfully built and deployed my café website on AWS S3. The 403 error is gone and now anyone with the link can visit my site.
 How I Made It Better with HTML and CSS
 Once the basic site was live, I wanted to make it look more professional and inviting. I wrote custom HTML and CSS to create a proper layout with navigation, a hero section, and a clean design. Here's what the new version looks like:
+
 <img width="937" height="481" alt="Screenshot 2026-03-17 154510" src="https://github.com/user-attachments/assets/8070a80c-29fb-426e-8488-166ae8dc16f2" />
+
 I added a navigation bar so visitors can easily find their way around. The welcome message with the tagline gives the site personality, and the "Explore Our Menu" button invites interaction. I also styled the page with CSS to use warm colors, nice fonts, and a responsive layout that looks good on both desktop and mobile.
 
 Now the site not only works—it actually looks like a real café website. I'm proud of how it turned out.
