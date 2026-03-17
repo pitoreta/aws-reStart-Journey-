@@ -20,7 +20,7 @@ A big fat 403 Forbidden error. Access denied. My files were in the bucket, the h
 
 So that was my challenge: figuring out how to properly configure permissions so visitors could actually view my site without getting blocked.
 
-<b>How I Succeeded</b>
+<b>How I Fixed the 403 Error and Got My Site Live</b>
 
 After figuring out the permission issue, I fixed it by adding the right bucket policy to make my files public. Once that was done, I refreshed the browser and finally saw my website live:
 
