@@ -47,7 +47,7 @@ This document outlines the architectural decisions and service implementations f
 ### **Performance**
 * **CloudFront** caches content close to users at edge locations.
 * **S3** provides fast access to high-resolution 3D assets.
-* **Cache layer** reduces database load and response times.
+* **ElastiCache layer** reduces database load and response times.
 
 ### **Security**
 * **Cognito** secures user authentication and identity.
